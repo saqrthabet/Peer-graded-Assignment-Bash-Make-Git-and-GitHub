@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Peer-graded-Assignment-Bash-Make-Git-and-GitHub" > readme.md
+echo "#Peer-graded-Assignment-Bash-Make-Git-and-GitHub" > readme.md
 now=$(date)
 echo "$now" >> readme.md
 echo "The number of rows:" >> readme.md
